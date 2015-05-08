@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CHAssignment2\CHAssignment2\bin\Debug\CHAssignment2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CHAssignment2\CHAssignment2\obj\Debug\CHAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CHAssignment2\CHAssignment2\bin\Debug\CHAssignment2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CHAssignment2\CHAssignment2\bin\Debug\CHAssignment2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CHAssignment2\CHAssignment2\obj\Debug\CHAssignment2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\CHAssignment2\CHAssignment2\obj\Debug\CHAssignment2.pdb
