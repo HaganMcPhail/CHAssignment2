@@ -10,8 +10,8 @@ namespace CHAssignment2
     {
         static void Main(string[] args)
         {
-            People people = new People();
-            people.Run();
+            PersonSearch personSearch = new PersonSearch();
+            personSearch.Run();
         }
     }
 }
